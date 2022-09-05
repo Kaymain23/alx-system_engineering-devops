@@ -1,2 +1,2 @@
 #!/bin/base
-grep -v "bin" /etc/passwd
+find . -name '*js.' -type f -delete
