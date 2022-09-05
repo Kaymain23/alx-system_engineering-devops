@@ -1,2 +1,2 @@
 #!/bin/base
-grep -i "a^[a'z]" etc/passwd
+grep -i -v "bin /etc/passwd
